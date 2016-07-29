@@ -37,8 +37,8 @@
       "dependencies": {
         "StationFour.SkillsTest.MockDomain": "1.0.0-*"
       }
-    },
-    "dnxcore50": { }
+    }
+   
   },
 
   "exclude": [
